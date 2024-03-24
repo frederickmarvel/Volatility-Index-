@@ -1,1 +1,7 @@
-
+binance-futures-connector
+numpy
+pandas
+requests
+python-dotenv
+pymysql
+FastAPI
